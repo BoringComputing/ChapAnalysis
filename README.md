@@ -1,6 +1,7 @@
 # ChapAnalysis
 
 # install on Betzy 
+```
 ## https://documentation.sigma2.no/software/userinstallsw/python.html
 ## https://documentation.sigma2.no/software/userinstallsw/conda.html#installing-with-conda
 module avail conda
@@ -14,3 +15,4 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 conda install -c bioconda chap
 chap -h 
+```
